@@ -1,1 +1,1 @@
-# python3-bash-osm-query
+# osm-query
